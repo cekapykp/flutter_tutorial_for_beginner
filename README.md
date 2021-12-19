@@ -29,5 +29,4 @@ Create your own template or use one made by the community!
 Open the code you downloaded with VisualStudio or AndroidStudio
 
 ## Quotation ?
-Totally beginner level
-
+It continues to be developed
