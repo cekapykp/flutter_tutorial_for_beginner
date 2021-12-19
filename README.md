@@ -16,10 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screens
-<img width="150" alt="1" src="https://user-images.githubusercontent.com/61888196/146669039-59268370-4bc0-4a90-91af-68ea365ab9ff.png">
-<img width="150" alt="2" src="https://user-images.githubusercontent.com/61888196/146669044-713b1f24-ed1b-4c26-95e1-63b62f41c0aa.png">
-<img width="150" alt="3" src="https://user-images.githubusercontent.com/61888196/146669049-f1cec85c-a512-49c7-bde9-4dbbda74e728.png">
-<img width="150" alt="4" src="https://user-images.githubusercontent.com/61888196/146669056-ac5e4675-98f2-440f-be33-2f86db4f0c51.png">
+<img width="200" alt="1" src="https://user-images.githubusercontent.com/61888196/146669039-59268370-4bc0-4a90-91af-68ea365ab9ff.png"><img width="200" alt="2" src="https://user-images.githubusercontent.com/61888196/146669044-713b1f24-ed1b-4c26-95e1-63b62f41c0aa.png">
+
+<img width="200" alt="3" src="https://user-images.githubusercontent.com/61888196/146669049-f1cec85c-a512-49c7-bde9-4dbbda74e728.png">
+<img width="200" alt="4" src="https://user-images.githubusercontent.com/61888196/146669056-ac5e4675-98f2-440f-be33-2f86db4f0c51.png">
 
 ## What are the benefits?
 Compared to other solutions, this tutorial is fully customizable and open source!
